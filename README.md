@@ -1,6 +1,6 @@
 # My AI Journey 🚀
 
-土木，零基础转型 AI  的成长记录。
+Civil Engineering，零基础转型 AI  的成长记录。
 
 ## 📅 进度记录
 
