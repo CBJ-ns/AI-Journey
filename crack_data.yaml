@@ -1,5 +1,6 @@
-path: /comtent/datasets
-train: images
-val: images
-names:
-  0:crack
+path: D:/AI-Journey/datasets
+train: images/train
+val: images/train
+nc: 1
+name:
+  0: crack
